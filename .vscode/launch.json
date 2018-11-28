@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch All Mocha Tests",
-            //"preLaunchTask": "gulp", 
+            "preLaunchTask": "gulp", 
             "cwd": "${workspaceRoot}", 
             "program": "${workspaceFolder}/node_modules/mocha/bin/_mocha",
             "args": [
