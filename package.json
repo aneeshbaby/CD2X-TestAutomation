@@ -1,7 +1,7 @@
 {
   "name": "mochatypescripttest",
   "version": "1.0.0",
-  "description": "Sample project which shows Typescript testing with Mocha, Chai, Selenium",
+  "description": "Sample project which shows Typescript testing with Mocha, Chai, Selenium ",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/_mocha lib/test/**/*.js --reporter mochawesome --reporter-options reportDir=TestResults"
